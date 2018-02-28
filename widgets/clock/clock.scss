@@ -1,0 +1,20 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+
+$day-background-color: #ffd217;
+$night-background-color: #063763;
+
+// ----------------------------------------------------------------------------
+// Widget-clock styles
+// ----------------------------------------------------------------------------
+
+.widget-clock.day {
+
+  background-color: $day-background-color;
+
+}
+
+.widget-clock.night {
+  background-color: $night-background-color;
+}

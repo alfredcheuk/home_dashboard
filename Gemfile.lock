@@ -16,7 +16,7 @@ GEM
       rack (~> 1.5.4)
       rufus-scheduler (~> 2.0.24)
       sass (~> 3.2.12)
-      sinatra (~> 1.4.4)
+      sinatra (~> 2.0.0)
       sinatra-contrib (~> 1.4.2)
       sprockets (~> 2.10.1)
       thin (~> 1.6.1)
